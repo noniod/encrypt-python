@@ -1,5 +1,4 @@
 # encrypt-python
-# encrypt-python
 Encrypt untuk Python
 - Jalankan
 
